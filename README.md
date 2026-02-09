@@ -12,5 +12,5 @@ Full Details of the Results can be assessed from the excel file titled 'rankings
 
 Key Insights:
 - Generally, adding key features enhances the model’s ability to capture patterns in the data.
-- The Random Forest model exhibited signs of overfitting as additional features were included, reducing its reliability. In contrast, the linear regression model remained stable, with performance (test 20% of data) plateauing beyond the top 12 features.
+- The Random Forest model exhibited signs of overfitting as additional features were included, reducing its reliability. In contrast, the linear regression model remained stable, with performance (test 20% of data) plateauing beyond the top 12 features. This makes linear regression the preferred model. 
 - The top 12 features contain the majority of the predictive information for the target, whereas the remaining features contribute minimally and can be considered as noise.
