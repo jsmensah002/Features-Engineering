@@ -1,5 +1,5 @@
 Project Goal:
-- Identify the most informative features for predicting the target variable (price). 
+- Identify the most informative features for predicting the target variable (Price). 
 
 Method:
 - Data Preparation: Collected and cleaned the dataset, handling missing values and encoding categorical variables.
